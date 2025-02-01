@@ -18,3 +18,6 @@ Time series forecasting solution for the [Rohlik Sales Forecasting Challenge on 
 
 ## Results
 - Validation WMAE: 24.96
+- Test WMAE: 26.68
+
+[Link to Kaggle submission](https://www.kaggle.com/code/eriklundqvist1/rohlik-sales-lagged-features-lightgbm-26-68/notebook)
