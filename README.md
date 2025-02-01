@@ -1,7 +1,7 @@
 # Rohlik Sales Forecasting Challenge
 
 ## Overview
-Time series forecasting solution for the [Rohlik Sales Forecasting Challenge on Kaggle]([url](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2)).
+Time series forecasting solution for the [Rohlik Sales Forecasting Challenge on Kaggle](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2)
 
 ## Setup
 1. Download competition data from [Kaggle](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/data)
